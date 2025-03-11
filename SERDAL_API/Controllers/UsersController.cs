@@ -116,6 +116,8 @@ namespace SERDAL_API.Controllers
             #endregion
 
 
+
+        //comment test
             //[HttpPut]
             //public async Task<ActionResult<List<User>>> UpdateUser(User user)
             //{
