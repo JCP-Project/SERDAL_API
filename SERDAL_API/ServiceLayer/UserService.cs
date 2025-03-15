@@ -35,7 +35,7 @@ namespace SERDAL_API.ServiceLayer
             var passwordHasher = new PasswordHasher<User>();
             userInfo.Password = passwordHasher.HashPassword(userInfo, userInfo.Password);
 
-            userInfo.IsActive = 0;
+            userInfo.IsActive = 1;
             userInfo.CreateDateTime = dt;
             userInfo.Role = "user";
 
@@ -60,7 +60,7 @@ namespace SERDAL_API.ServiceLayer
                 {
                     Code = 400,
                     Success = false,
-                    ErrorMessage = "UUser is already exist. please login your account"
+                    ErrorMessage = "User is already exist. please login your account"
                 };
 
             }
@@ -72,14 +72,61 @@ namespace SERDAL_API.ServiceLayer
 
             OTPdata.UserId = 0;
             OTPdata.OTPCode = OTP;
-            OTPdata.isActive = 0;
+            OTPdata.isActive = 1;
             OTPdata.CreatedDateTime = dt;
-            OTPdata.ExpiryTime = dt.AddMinutes(10);
+            OTPdata.ExpiryTime = dt.AddMinutes(30);
 
             //_context.otp.Add(OTPdata);
             //await _context.SaveChangesAsync();
 
             if (!Email.sendOTP(OTP, otp.Email))
+            {
+                return new ServiceResponse<OTPs>
+                {
+                    Code = 400,
+                    Success = false,
+                    ErrorMessage = "Failed to send OTP"
+                };
+            }
+
+            return new ServiceResponse<OTPs>
+            {
+                Code = 200,
+                Success = true,
+                Data = OTPdata
+            };
+        }
+
+
+        public async Task<ServiceResponse<OTPs>> ResetPasswordOTP(string email)
+        {
+            DateTime dt = DateTime.Now;
+            var user = await _context.users.Where(o => o.Email == email).FirstOrDefaultAsync();
+            if (user == null)
+            {
+                return new ServiceResponse<OTPs>
+                {
+                    Code = 400,
+                    Success = false,
+                    ErrorMessage = "User does not exist"
+                };
+
+            }
+
+            var OTPdata = new OTPs();
+
+            var random = new Random();
+            string OTP = random.Next(100000, 999999).ToString();
+
+            OTPdata.UserId = user.ID;
+            OTPdata.OTPCode = OTP;
+            OTPdata.isActive = 1;
+            OTPdata.ExpiryTime = dt.AddMinutes(30);
+
+            //_context.otp.Add(OTPdata);
+            //await _context.SaveChangesAsync();
+
+            if (!Email.sendOTP(OTP, email))
             {
                 return new ServiceResponse<OTPs>
                 {

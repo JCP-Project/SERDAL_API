@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using DocumentFormat.OpenXml.Spreadsheet;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
@@ -47,7 +48,7 @@ namespace SERDAL_API.Controllers
         {
             DateTime dt = DateTime.Now;
             var getUser = await _UserService.CreateUser(user);
-            user.IsActive = 1;
+            
 
             return Ok(await _context.users.Where(x => x.Email == getUser.Data.Email).FirstOrDefaultAsync());
         }
@@ -79,12 +80,11 @@ namespace SERDAL_API.Controllers
             return Ok(User);
         }
 
-            #region OTP
-            [HttpPost("sendOTP")]
-        public async Task<IActionResult> SendOTP(OTPs otp)
-        {
 
-            var OTP = await _UserService.SendOTP(otp);
+        [HttpGet("ResetPasswordOTP/{email}")]
+        public async Task<IActionResult> sendResetPasswordOTP(string email)
+        {
+            var OTP = await _UserService.ResetPasswordOTP(email);
             if (!OTP.Success)
             {
                 return Helper.Response.Code(OTP.Code, OTP.ErrorMessage);
@@ -93,26 +93,56 @@ namespace SERDAL_API.Controllers
             return Ok(OTP.Data.OTPCode);
         }
 
-        [HttpPost("verifyOTP")]
-        public async Task<ActionResult<User>> VerifyOTP(OTPs user)
+        [HttpPost("ResetPassword")]
+        public async Task<IActionResult> ResetPassword(ResetPasswordDTO user)
         {
-            DateTime dt = DateTime.Now;
-            var otps = await _context.otp.FindAsync(user.Id);
-            if (otps == null)
-            {
-                BadRequest();
-            }
+            var userData = await _context.users.Where(x => x.Email.ToLower() == user.email.ToLower()).FirstOrDefaultAsync();
 
-            if (otps.OTPCode == user.OTPCode)
-            {
-                return Ok();
-            }
-            else
-            {
-                return NotFound(new { code = 404, message = "Invalid OTP code" });
-            }
 
+            var passwordHasher = new PasswordHasher<User>();
+            userData.Password = passwordHasher.HashPassword(userData, user.password);
+            userData.ModifiedBy = userData.ID;
+            userData.ModifiedDateTime = DateTime.Now;
+            _context.users.Update(userData);
+            await _context.SaveChangesAsync();
+            return Ok(userData);
         }
+
+
+        #region OTP
+        [HttpPost("sendOTP")]
+            public async Task<IActionResult> SendOTP(OTPs otp)
+            {
+
+                var OTP = await _UserService.SendOTP(otp);
+                if (!OTP.Success)
+                {
+                    return Helper.Response.Code(OTP.Code, OTP.ErrorMessage);
+                }
+
+                return Ok(OTP.Data.OTPCode);
+            }
+
+            [HttpPost("verifyOTP")]
+            public async Task<ActionResult<User>> VerifyOTP(OTPs user)
+            {
+                DateTime dt = DateTime.Now;
+                var otps = await _context.otp.FindAsync(user.Id);
+                if (otps == null)
+                {
+                    BadRequest();
+                }
+
+                if (otps.OTPCode == user.OTPCode)
+                {
+                    return Ok();
+                }
+                else
+                {
+                    return NotFound(new { code = 404, message = "Invalid OTP code" });
+                }
+
+            }
             #endregion
 
 

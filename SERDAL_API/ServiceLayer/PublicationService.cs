@@ -64,19 +64,37 @@ public class PublicationService : ServiceReponse
         var publication = publications
             .Skip(skip)
             .Take(request.pagesize)
-            .OrderByDescending(d => d.CreatedDate).OrderBy(t => t.Title)
+            .OrderBy(t => t.Title)
             .ToList();
 
 
         //Order by
         if (!string.IsNullOrEmpty(request.order))
         {
-            if (request.order.ToUpper().Contains("DESC"))
+            if (request.order.Contains("Title_DESC"))
             {
                 publication = publications
                 .Skip(skip)
                 .Take(request.pagesize)
-                .OrderByDescending(d => d.CreatedDate).OrderByDescending(t => t.Title)
+                .OrderByDescending(t => t.Title)
+                .ToList();
+            }
+
+            if (request.order.Contains("PublicationDate_MostRecent"))
+            {
+                publication = publications
+                .Skip(skip)
+                .Take(request.pagesize)
+                .OrderByDescending(d => d.PublicationDate).ThenBy(x => x.Title)
+                .ToList();
+            }
+
+            if (request.order.Contains("PublicationDate_OldestFirst"))
+            {
+                publication = publications
+                .Skip(skip)
+                .Take(request.pagesize)
+                .OrderBy(d => d.PublicationDate).ThenBy(x => x.Title)
                 .ToList();
             }
         }

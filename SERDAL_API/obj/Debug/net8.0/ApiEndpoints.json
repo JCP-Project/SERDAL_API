@@ -464,6 +464,38 @@
   },
   {
     "ContainingType": "SERDAL_API.Controllers.UsersController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/Users/ResetPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "SERDAL_API.Application.DTOs.UserDto.ResetPasswordDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SERDAL_API.Controllers.UsersController",
+    "Method": "sendResetPasswordOTP",
+    "RelativePath": "api/Users/ResetPasswordOTP/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SERDAL_API.Controllers.UsersController",
     "Method": "SendOTP",
     "RelativePath": "api/Users/sendOTP",
     "HttpMethod": "POST",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GFH9kTj4Z5hDedsmlhyS+WY4qe58p4Veu1dkSgOPnHo=",
+  "Hash": "M5NyhQqGD8N5DzgSV0EN5TEZYCXVf+yMBoL8tOjQeWs=",
   "Source": "SERDAL_API",
   "BasePath": "_content/SERDAL_API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SERDAL_API\\wwwroot",
       "Source": "SERDAL_API",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025220422.jpg",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025220422.jpg",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/Images/1/102112025220422#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\Images\\1\\102112025220422.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025230702.jpg",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025230702.jpg",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/Images/1/102112025230702#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\Images\\1\\102112025230702.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025230917.jpg",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025230917.jpg",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/Images/1/102112025230917#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\Images\\1\\102112025230917.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025220422.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025220422.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/1/102112025220422#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\1\\102112025220422.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025230702.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025230702.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/1/102112025230702#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\1\\102112025230702.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025230917.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025230917.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/1/102112025230917#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\1\\102112025230917.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025233513.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025233513.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/1/102112025233513#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\1\\102112025233513.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025220530.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025220530.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/1/102132025220530#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\1\\102132025220530.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221453.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221453.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/1/102132025221453#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\1\\102132025221453.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221546.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221546.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/1/102132025221546#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\1\\102132025221546.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221652.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221652.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/1/102132025221652#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\1\\102132025221652.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221859.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221859.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/1/102132025221859#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\1\\102132025221859.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025222338.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025222338.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/1/102132025222338#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\1\\102132025222338.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025222523.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025222523.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/1/102132025222523#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\1\\102132025222523.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102152025224628.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102152025224628.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/1/102152025224628#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\1\\102152025224628.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802242025000013.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802242025000013.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/28/2802242025000013#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\28\\2802242025000013.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802242025200950.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802242025200950.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/28/2802242025200950#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\28\\2802242025200950.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802252025220440.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802252025220440.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/28/2802252025220440#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\28\\2802252025220440.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\31\\3102242025001750.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\31\\3102242025001750.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/31/3102242025001750#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\31\\3102242025001750.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\32\\3202272025224732.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\32\\3202272025224732.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/32/3202272025224732#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\Publication\\PDF\\32\\3202272025224732.pdf"
     },
     {
-      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\32\\3203032025184521.pdf",
+      "Identity": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\32\\3203032025184521.pdf",
       "SourceId": "SERDAL_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\",
       "BasePath": "_content/SERDAL_API",
       "RelativePath": "Publication/PDF/32/3203032025184521#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -461,7 +461,7 @@
   "Endpoints": [
     {
       "Route": "Publication/Images/1/102112025220422.2kl0vkli4c.jpg",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025220422.jpg",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025220422.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -482,7 +482,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 14:04:22 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -506,7 +506,7 @@
     },
     {
       "Route": "Publication/Images/1/102112025220422.jpg",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025220422.jpg",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025220422.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -527,7 +527,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 14:04:22 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -543,7 +543,7 @@
     },
     {
       "Route": "Publication/Images/1/102112025230702.2kl0vkli4c.jpg",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025230702.jpg",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025230702.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -564,7 +564,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 15:07:03 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -588,7 +588,7 @@
     },
     {
       "Route": "Publication/Images/1/102112025230702.jpg",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025230702.jpg",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025230702.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -609,7 +609,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 15:07:03 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -625,7 +625,7 @@
     },
     {
       "Route": "Publication/Images/1/102112025230917.2kl0vkli4c.jpg",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025230917.jpg",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025230917.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -646,7 +646,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 15:09:17 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -670,7 +670,7 @@
     },
     {
       "Route": "Publication/Images/1/102112025230917.jpg",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025230917.jpg",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\Images\\1\\102112025230917.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -691,7 +691,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 15:09:17 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -707,7 +707,7 @@
     },
     {
       "Route": "Publication/PDF/1/102112025220422.3xglios4p1.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025220422.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025220422.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -728,7 +728,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 14:04:22 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -752,7 +752,7 @@
     },
     {
       "Route": "Publication/PDF/1/102112025220422.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025220422.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025220422.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -773,7 +773,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 14:04:22 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -789,7 +789,7 @@
     },
     {
       "Route": "Publication/PDF/1/102112025230702.3xglios4p1.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025230702.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025230702.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -810,7 +810,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 15:07:03 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -834,7 +834,7 @@
     },
     {
       "Route": "Publication/PDF/1/102112025230702.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025230702.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025230702.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -855,7 +855,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 15:07:03 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -871,7 +871,7 @@
     },
     {
       "Route": "Publication/PDF/1/102112025230917.3xglios4p1.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025230917.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025230917.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -892,7 +892,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 15:09:17 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -916,7 +916,7 @@
     },
     {
       "Route": "Publication/PDF/1/102112025230917.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025230917.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025230917.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -937,7 +937,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 15:09:17 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -953,7 +953,7 @@
     },
     {
       "Route": "Publication/PDF/1/102112025233513.3xglios4p1.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025233513.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025233513.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -974,7 +974,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 15:35:14 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -998,7 +998,7 @@
     },
     {
       "Route": "Publication/PDF/1/102112025233513.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025233513.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102112025233513.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1019,7 +1019,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 15:35:14 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1035,7 +1035,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025220530.78zsf6xw09.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025220530.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025220530.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1056,7 +1056,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:05:30 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1080,7 +1080,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025220530.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025220530.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025220530.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1101,7 +1101,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:05:30 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1117,7 +1117,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025221453.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221453.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221453.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1138,7 +1138,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:14:53 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1154,7 +1154,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025221453.vr5007ivfw.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221453.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221453.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1175,7 +1175,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:14:53 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1199,7 +1199,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025221546.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221546.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221546.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1220,7 +1220,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:15:46 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1236,7 +1236,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025221546.uwvujquujb.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221546.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221546.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1257,7 +1257,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:15:46 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1281,7 +1281,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025221652.7f7kbbrucn.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221652.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221652.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1302,7 +1302,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:16:53 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1326,7 +1326,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025221652.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221652.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221652.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1347,7 +1347,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:16:53 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1363,7 +1363,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025221859.p0f1qoqe1n.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221859.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221859.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1384,7 +1384,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:18:59 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1408,7 +1408,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025221859.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221859.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025221859.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1429,7 +1429,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:18:59 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1445,7 +1445,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025222338.2h3146c017.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025222338.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025222338.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1466,7 +1466,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:23:45 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1490,7 +1490,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025222338.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025222338.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025222338.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1511,7 +1511,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:23:45 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1527,7 +1527,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025222523.egfgvod21g.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025222523.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025222523.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1548,7 +1548,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:25:23 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1572,7 +1572,7 @@
     },
     {
       "Route": "Publication/PDF/1/102132025222523.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025222523.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102132025222523.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1593,7 +1593,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 14:25:23 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1609,7 +1609,7 @@
     },
     {
       "Route": "Publication/PDF/1/102152025224628.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102152025224628.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102152025224628.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1630,7 +1630,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 14:46:28 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1646,7 +1646,7 @@
     },
     {
       "Route": "Publication/PDF/1/102152025224628.sxk5gkaln0.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102152025224628.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\1\\102152025224628.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1667,7 +1667,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 14:46:28 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1691,7 +1691,7 @@
     },
     {
       "Route": "Publication/PDF/28/2802242025000013.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802242025000013.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802242025000013.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1712,7 +1712,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 16:00:13 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1728,7 +1728,7 @@
     },
     {
       "Route": "Publication/PDF/28/2802242025000013.rodz8zmunq.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802242025000013.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802242025000013.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1749,7 +1749,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 16:00:13 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1773,7 +1773,7 @@
     },
     {
       "Route": "Publication/PDF/28/2802242025200950.5ipweew5fc.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802242025200950.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802242025200950.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1794,7 +1794,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 12:22:26 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1818,7 +1818,7 @@
     },
     {
       "Route": "Publication/PDF/28/2802242025200950.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802242025200950.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802242025200950.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1839,7 +1839,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 12:22:26 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1855,7 +1855,7 @@
     },
     {
       "Route": "Publication/PDF/28/2802252025220440.17fo8uu0tn.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802252025220440.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802252025220440.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1876,7 +1876,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 14:04:40 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1900,7 +1900,7 @@
     },
     {
       "Route": "Publication/PDF/28/2802252025220440.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802252025220440.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\28\\2802252025220440.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1921,7 +1921,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 14:04:40 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1937,7 +1937,7 @@
     },
     {
       "Route": "Publication/PDF/31/3102242025001750.5a22klyym9.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\31\\3102242025001750.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\31\\3102242025001750.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1958,7 +1958,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 16:17:57 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1982,7 +1982,7 @@
     },
     {
       "Route": "Publication/PDF/31/3102242025001750.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\31\\3102242025001750.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\31\\3102242025001750.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2003,7 +2003,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 16:17:57 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2019,7 +2019,7 @@
     },
     {
       "Route": "Publication/PDF/32/3202272025224732.4cnxffbouj.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\32\\3202272025224732.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\32\\3202272025224732.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2040,7 +2040,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 14:47:32 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2064,7 +2064,7 @@
     },
     {
       "Route": "Publication/PDF/32/3202272025224732.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\32\\3202272025224732.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\32\\3202272025224732.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2085,7 +2085,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 14:47:32 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2101,7 +2101,7 @@
     },
     {
       "Route": "Publication/PDF/32/3203032025184521.j1o84f2y0c.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\32\\3203032025184521.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\32\\3203032025184521.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2122,7 +2122,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:45:21 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2146,7 +2146,7 @@
     },
     {
       "Route": "Publication/PDF/32/3203032025184521.pdf",
-      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\32\\3203032025184521.pdf",
+      "AssetFile": "C:\\Users\\user\\Downloads\\UPLB\\GitHub\\SERDAL_API\\SERDAL_API\\SERDAL_API\\wwwroot\\Publication\\PDF\\32\\3203032025184521.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2167,7 +2167,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:45:21 GMT"
+          "Value": "Tue, 11 Mar 2025 13:32:25 GMT"
         },
         {
           "Name": "Cache-Control",
